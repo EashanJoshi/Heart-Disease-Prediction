@@ -12,4 +12,4 @@ Testing Accuracy achieved: 85%
 
 Dataset used: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-Check the master branch for project. 
+Project: https://github.com/Eashanelliot/Heart-Disease-Prediction.git
