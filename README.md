@@ -7,9 +7,9 @@ The project involved analysis of the heart disease patient dataset with proper d
 
 I've used this Machine Learning algorithm, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
-Training Accuracy achieved: 92% 
-Testing Accuracy achieved: 85% 
+Training Accuracy achieved: 92%.
+Testing Accuracy achieved: 85%.
 
 Dataset used: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-Project: https://github.com/Eashanelliot/Heart-Disease-Prediction.git
+Check the master branch for the project. 
